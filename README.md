@@ -14,6 +14,9 @@ Gender Data Resource Discovery Hackathon
 ![GIZ](https://img.shields.io/badge/program-GIZ%20%2F%20FAST-1A6B3C)
 
 **A cloud-native geospatial web application that makes Rwanda's gender data visible, accessible, and actionable.**
+🌐 Published Application:
+👉https://noahamza64.users.earthengine.app/view/rwanda-gender-data-discovery-portal
+
 
 *GIZ / FAST Program — Gender Data Resource Discovery Hackathon · 19–20 March 2026*
 
